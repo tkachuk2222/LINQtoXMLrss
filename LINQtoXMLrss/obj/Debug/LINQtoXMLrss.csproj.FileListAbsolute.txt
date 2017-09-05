@@ -1,0 +1,32 @@
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.exe.config
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.exe
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.pdb
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.csprojResolveAssemblyReference.cache
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\MainWindow.g.cs
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\App.g.cs
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss_MarkupCompile.cache
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss_MarkupCompile.lref
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\MainWindow.baml
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.g.resources
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.Properties.Resources.resources
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.csproj.GenerateResource.Cache
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.exe
+c:\users\temp\documents\visual studio 2015\Projects\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.pdb
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.exe.config
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.exe
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.pdb
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.exe
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\bin\Debug\LINQtoXMLrss.pdb
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\App.g.cs
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss_MarkupCompile.cache
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss_MarkupCompile.lref
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\MainWindow.baml
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.g.resources
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.Properties.Resources.resources
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\LINQtoXMLrss.csproj.GenerateResource.Cache
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\ChangeRSS.g.cs
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\ChangeRSS.baml
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\NewRss.g.cs
+C:\Users\DELL\Google Диск\шаг\development\ADO.NET\Lessons_7_LINQtoXML\LINQtoXMLrss\LINQtoXMLrss\obj\Debug\NewRss.baml

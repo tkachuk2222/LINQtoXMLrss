@@ -1,0 +1,27 @@
+﻿<Window x:Class="LINQtoXMLrss.ChangeRSS"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LINQtoXMLrss"
+        mc:Ignorable="d"
+        Title="ChangeRSS" Height="313.333" Width="300"
+        Background="LightBlue"        
+        Loaded="Window_Loaded">
+    <Window.Resources>
+
+        <Style x:Key="BtnStyle" TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="LightCyan" />
+            <Setter Property="BorderBrush" Value="LightSeaGreen" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Padding" Value="0" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <ListBox Loaded="listBoxLinks_Loaded" x:Name="listBoxLinks" HorizontalAlignment="Left" Height="249" Margin="10,10,0,0" VerticalAlignment="Top" Width="182"/>
+        <Button Style="{StaticResource BtnStyle}" Click="buttonOK_Click" x:Name="buttonOK" Content="OK" HorizontalAlignment="Left" Margin="197,10,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Style="{StaticResource BtnStyle}" Click="buttonAddRSS_Click" x:Name="buttonAddRSS" Content="Add RSS" HorizontalAlignment="Left" Margin="197,35,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Style="{StaticResource BtnStyle}" Click="buttonRemove_Click" x:Name="buttonRemove" Content="Remove" HorizontalAlignment="Left" Margin="197,58,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

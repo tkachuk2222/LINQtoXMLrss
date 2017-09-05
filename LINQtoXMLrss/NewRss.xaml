@@ -1,0 +1,19 @@
+﻿<Window x:Class="LINQtoXMLrss.NewRss"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LINQtoXMLrss"
+        mc:Ignorable="d"
+        Title="NewRss" Height="156.767" Width="396.992"
+        Background="LightBlue"
+        Loaded="Window_Loaded"
+        >
+    <Grid>
+        <Button Click="btnOK_Click" x:Name="btnOK" Content="OK" HorizontalAlignment="Left" Margin="283,51,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="textBoxLink" HorizontalAlignment="Left" Height="23" Margin="42,51,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="209"/>
+        <Label x:Name="label" Content="Link:" HorizontalAlignment="Left" Margin="42,23,0,0" VerticalAlignment="Top" Width="56"/>
+
+
+    </Grid>
+</Window>
